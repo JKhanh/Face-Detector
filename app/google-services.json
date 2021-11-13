@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035492517213",
+    "project_id": "faced-e7fa1",
+    "storage_bucket": "faced-e7fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035492517213:android:c4375ffb2e23f2f31a34b4",
+        "android_client_info": {
+          "package_name": "com.stp.faced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035492517213-omvdgraom78n3s2ktg3prmhkhv8pugft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGOk1QnFTaGJvUGClEntlgZ8eT243S1yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035492517213-omvdgraom78n3s2ktg3prmhkhv8pugft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
