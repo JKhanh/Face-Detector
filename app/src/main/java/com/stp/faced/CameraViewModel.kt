@@ -21,7 +21,7 @@ class CameraViewModel: ViewModel() {
     private lateinit var cameraProvider: ProcessCameraProvider
     private lateinit var preview: Preview
     lateinit var camera: Camera
-    private val cameraSelector = CameraSelector.DEFAULT_BACK_CAMERA
+    private val cameraSelector = CameraSelector.DEFAULT_FRONT_CAMERA
     val faces = MutableLiveData<Bitmap?>(null)
 
     init{
